@@ -12,3 +12,7 @@ Pihak yang mungkin di wawancara:
 - goen condet
 - ⁠tearas kupu depok
 - ⁠rasman
+
+Problem:
+- pengelolaan penjualan ke pusat
+- pengelolaan pelaporan stok barang
