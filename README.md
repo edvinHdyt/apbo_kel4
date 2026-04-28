@@ -68,6 +68,7 @@ Suhargo et al menemukan bahwa terdapat beberapa kebutuhan yang dibutuhkan oleh u
 5. Manajemen Produk
 6. Manajemen banyak cabang
 7. Fungsi GPS
+
 Kebutuhan-kebutuhan yang sudah ditemukan tersebut yang menjadi dasar pembuatan sistem POS untuk kafe.Selain penemuan kebutuhan untuk merancang pembangunan sistem Suhargo et al juga merencanakan proses pengujian sistem dengan 2 cara, yaitu pengujian Black Box dan pengujian User Acceptance Test (UAT). Pengujian blackbox atau blackbox testing dijalankan untuk memastikan setiap fungsi sudah berjalan sesuai dengan skenario use case, sementara pengujian UAT dijalankan dengan melibatkan responden dari pelaku umkm kafe untuk menilai aspek functionality, usability, dan effisiency, sehingga dapat dipastikan aplikasi yang dikembangkan layak digunakan sebagai solusi bagi UMKM kafe.
 
 Perancangan sistem POS berbasis mobile ini menghasilkan beberapa fitur utama seperti:
@@ -76,6 +77,7 @@ Perancangan sistem POS berbasis mobile ini menghasilkan beberapa fitur utama sep
 3. Transaksi dan riwayat transaksi
 4. Manajemen menu dan meja
 5. Fitur GPS, yang digunakan untuk menampilkan lokasi outlet yang terdaftar.
+
 Selanjutnya Suhargo et al menjabarkan hasil testing menggunakan 2 metode tadi, hasil-hasil tersebut seperti fungsi aplikasi yang berjalan dengan baik sesuai dengan perannya masing-masing pada use case, dan pengujian UAT terhadap 50 responden yang menghasilkan nilai rata-rata sebanyak 86%.  Hal ini menunjukan pengguna sangat setuju aplikasi POS diterapkan pada lingkungan kerja mereka sehingga dapat mengefisiensi kinerja dan juga memudahkan untuk para pelanggan dalam menemukan outlet kafe dan juga informasi terkait seperti menu dan lokasi.
 
 <h2 align="center">Pertanyaan</h2>
