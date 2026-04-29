@@ -40,7 +40,17 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 <h2 align="center">Literasi bacaan</h2>
 
 <h2 align="center">Pertanyaan</h2>
-
+<h4>List Pertanyaan Wawancara</h4>
+1. Apa nama usaha bapak/ibu?
+2. Apa bentuk usaha yang bapak/ibu lakukan?
+3. Apakah usaha ini milik sendiri/franchise/reseller?
+4. Apa saja langkah langkah kegiatan usaha yang dilakukan? 
+5. Apakah ada kendala tertentu dalam melakukan usaha ini? (Seperti salah pencatatan keuangan, kesulitan mencatat stok barang, dll)
+6. Apakah dalam usaha ini sudah mempunyai sistem?
+7. Dalam melakukan kegiatan usaha apakah perlu sistem tertentu? (Seperti sistem manajemen keuangan/sistem pelaporan)
+8. Apakah ada pembagian struktural kerja, kalau ada jobdesknya apa saja
+9. Apakah pendataan sekarang masih secara manual? kalau iya, menggunakan apa? apakah excel? atau pembukuan?
+10. Apakah mempunyai toko online?
 <h2 align="center">Dokumentasi</h2>
 
 <h2 align="center">Alur bisnis</h2>
