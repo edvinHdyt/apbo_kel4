@@ -139,6 +139,36 @@ Selanjutnya Suhargo et al menjabarkan hasil testing menggunakan 2 metode tadi, h
 </ol>
 </ul>
 <h2 align="center">Dokumentasi</h2>
+Berikut adalah Link Dokumentasi kami pada wawancara dengan SushiMood pada hari Rabu, 29 April 2026 Pukul 13.10 WIB :
+<a href="https://youtu.be/AKdoKPQM6m4?si=DiMCfM6n75lhusBY">
+WAWANCARA TERHADAP SUSHI MOOD UNTUK ANALISIS KEBUTUHAN USER</a>
+<p>
+  <h3>NOTULENSI WAWANCARA</h3>
+  <p><strong>Narasumber:</strong> Kaesar</p>
+    <h4>Profil Usaha</h4>
+    <ul>
+      <li><strong>Nama Usaha:</strong> Sushi Mood</li>
+      <li><strong>Kepemilikan:</strong> Usaha milik sendiri</li>
+      <li><strong>Bidang:</strong> Food and Beverage (F&B)</li>
+    </ul>
+    <h4>Kegiatan Operasional</h4>
+    <ul>
+      <li>Menyiapkan bahan baku</li>
+      <li>Menjaga kebersihan usaha</li>
+      <li>Melayani pelanggan</li>
+    </ul>
+    <h4>Sistem yang Digunakan</h4>
+    <p>Belum menggunakan sistem khusus. Kemungkinan membutuhkan sistem apabila usaha berkembang lebih besar.</p>
+    <h4>Struktur Organisasi</h4>
+    <ul>
+      <li>Helper</li>
+      <li>Cook</li>
+    </ul>
+    <h4>Pencatatan</h4>
+    <p>Pencatatan saat ini masih menggunakan Microsoft Excel.</p>
+    <h4>Jobdesk Karyawan</h4>
+      <p>Tugas utama Cooker memasak dan Helper membantu saat melayani. Setiap karyawan saling berkoordinasi dalam melayani pelanggan dan menjalankan operasional usaha.</p>
+</p>
 <h2 align="center">Alur bisnis</h2>
 
 ## Informasi Umum Usaha
