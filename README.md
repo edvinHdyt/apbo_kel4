@@ -207,8 +207,6 @@ Berikut adalah sistem yang sebaiknya dimiliki SushiMood di masa mendatang:
    Memberi tahu kasir dan pelanggan ketika pesanan sudah siap.
 6. **Laporan Penjualan Otomatis**  
    Menampilkan pendapatan harian, menu terlaris, dan jumlah transaksi.
-7. **Integrasi WhatsApp**  
-   Menerima pesanan online langsung masuk ke sistem tanpa dicatat manual.
 ---
 
 ## Kesimpulan
