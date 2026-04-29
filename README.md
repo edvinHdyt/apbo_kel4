@@ -59,3 +59,24 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 <p align="center">
 <img src="image/UseCaseSushiMod.svg" width="700" height="700" align="center">
 </p>
+<h4>1. Aktor Sistem</h4>
+  <ol>Terdapat dua aktor yang berinteraksi dengan sistem:</ol>
+  <ol>Penjual: Pengguna yang bertanggung jawab mengelola operasional toko, data barang, dan laporan.</ol>
+  <ol>Pelanggan: Pengguna yang melakukan aktivitas pemilihan menu dan transaksi pembelian.</ol>
+<h4>2. Fungsionalitas (Use Case)</h4>
+A. Sisi Penjual
+  <ol>Penjual memiliki wewenang untuk melakukan manajemen data di balik layar:</ol>
+  <ol>Mengelola Profile: Memperbarui informasi akun penjual.</ol>
+  <ol>Mengelola Stock Penjualan: Memantau dan memperbarui ketersediaan produk.</ol>
+  <ol>Mengelola Laporan Keuangan: Melihat dan mengatur data pemasukan/pengeluaran.</ol>
+  <ol>Melihat Data Penjualan Menu Populer: Analisis data untuk melihat produk mana yang paling laku.</ol>
+  <ol>Mengelola Barang Operasional Toko: Mengatur kebutuhan inventaris pendukung toko.</ol>
+  <ol>Mengelola Pesanan Pelanggan: Memproses pesanan yang masuk dari pelanggan.</ol>
+B. Sisi Pelanggan
+    <ol>Pelanggan berinteraksi dengan sistem untuk kebutuhan belanja:</ol>
+    <ol>Melihat Menu: Menjelajahi daftar produk yang tersedia.</ol>
+    <ol>Memasukkan Menu ke Keranjang: Memilih produk sebelum melakukan checkout.</ol>
+    <ol>Melakukan Pembelian: Memproses pesanan dari keranjang belanja.</ol>
+    <ol>Melakukan Pembayaran: Menyelesaikan transaksi secara finansial.</ol>
+<h4>3. Relasi include dan Autentikasi</h4>
+Di tengah diagram terdapat Use Case Autentikasi yang dihubungkan dengan garis putus-putus berlabel include dari semua Use Case lainnya. Hal ini menunjukkan bahwa Autentikasi (login/verifikasi identitas) adalah syarat wajib. Artinya, baik Penjual maupun Pelanggan tidak dapat menjalankan fitur apa pun (seperti melihat laporan atau melakukan pembayaran) sebelum mereka berhasil melakukan proses autentikasi terlebih dahulu.
