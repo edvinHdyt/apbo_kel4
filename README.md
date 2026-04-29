@@ -212,9 +212,10 @@ Berikut adalah sistem yang sebaiknya dimiliki SushiMood di masa mendatang:
 ---
 
 ## Kesimpulan
-Saat ini SushiMood masih berjalan secara manual dengan koordinasi lisan antara helper dan cook. Pencatatan keuangan dan penjualan masih menggunakan Excel.  
+
+Saat ini SushiMood masih berjalan secara manual dengan koordinasi lisan antara helper dan cook. Pencatatan keuangan dan penjualan masih menggunakan Excel.
 Untuk mengembangkan usaha ke level yang lebih besar, SushiMood sangat membutuhkan sistem digital yang terintegrasi, mulai dari kasir, stok barang, antrean dapur, hingga laporan penjualan otomatis.
----
+
 **Dokumen ini disusun berdasarkan hasil wawancara langsung dengan Caesar, selaku pemilik gerai SushiMood.**
 
 <h2 align="center">Use Case</h2>
