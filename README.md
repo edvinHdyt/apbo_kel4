@@ -56,3 +56,6 @@ Adi Wahyu Pribadi, S.Si., M.Kom
 <h2 align="center">Alur bisnis</h2>
 
 <h2 align="center">Use Case</h2>
+<p align="center">
+<img src="image/UseCaseSushiMod.svg" width="700" height="700" align="center">
+</p>
