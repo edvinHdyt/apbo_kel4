@@ -102,7 +102,42 @@ Perancangan sistem POS berbasis mobile ini menghasilkan beberapa fitur utama sep
 Selanjutnya Suhargo et al menjabarkan hasil testing menggunakan 2 metode tadi, hasil-hasil tersebut seperti fungsi aplikasi yang berjalan dengan baik sesuai dengan perannya masing-masing pada use case, dan pengujian UAT terhadap 50 responden yang menghasilkan nilai rata-rata sebanyak 86%.  Hal ini menunjukan pengguna sangat setuju aplikasi POS diterapkan pada lingkungan kerja mereka sehingga dapat mengefisiensi kinerja dan juga memudahkan untuk para pelanggan dalam menemukan outlet kafe dan juga informasi terkait seperti menu dan lokasi.
 
 <h2 align="center">Pertanyaan</h2>
-
+<h4>List Pertanyaan Wawancara</h4>
+<ul>
+<ol>
+   1.Apa nama usaha bapak/ibu?
+</ol>
+<ol>
+  2.Apa bentuk usaha yang bapak/ibu lakukan?
+</ol>
+<ol>
+  2.Apa bentuk usaha yang bapak/ibu lakukan?
+</ol>
+<ol>
+ 3. Apakah usaha ini milik sendiri/franchise/reseller?
+</ol>
+<ol>
+  4. Apa saja langkah langkah kegiatan usaha yang dilakukan? 
+</ol>
+<ol>
+  5. Apakah ada kendala tertentu dalam melakukan usaha ini? (Seperti salah pencatatan keuangan, kesulitan mencatat stok barang, dll)
+</ol>
+<ol>
+  6. Apakah dalam usaha ini sudah mempunyai sistem?
+</ol>
+<ol>
+  7. Dalam melakukan kegiatan usaha apakah perlu sistem tertentu? (Seperti sistem manajemen keuangan/sistem pelaporan)
+</ol>
+<ol>
+  8. Apakah ada pembagian struktural kerja, kalau ada jobdesknya apa saja
+</ol>
+<ol>
+  9. Apakah pendataan sekarang masih secara manual? kalau iya, menggunakan apa? apakah excel? atau pembukuan?
+</ol>
+<ol>
+  10. Apakah mempunyai toko online?
+</ol>
+</ul>
 <h2 align="center">Dokumentasi</h2>
 
 <h2 align="center">Alur bisnis</h2>
