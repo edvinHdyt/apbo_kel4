@@ -139,7 +139,6 @@ Selanjutnya Suhargo et al menjabarkan hasil testing menggunakan 2 metode tadi, h
 </ol>
 </ul>
 <h2 align="center">Dokumentasi</h2>
-
 <h2 align="center">Alur bisnis</h2>
 
 ## Informasi Umum Usaha
