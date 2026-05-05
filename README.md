@@ -270,3 +270,33 @@ B. Sisi Pelanggan
     <ol>Melakukan Pembayaran: Menyelesaikan transaksi secara finansial.</ol>
 <h4>3. Relasi include dan Autentikasi</h4>
 Di tengah diagram terdapat Use Case Autentikasi yang dihubungkan dengan garis putus-putus berlabel include dari semua Use Case lainnya. Hal ini menunjukkan bahwa Autentikasi (login/verifikasi identitas) adalah syarat wajib. Artinya, hanya Penjual yang dapat melakukan autentikasi sedangkan Pelanggan tidak dapat menjalankan fitur apa pun (seperti melihat laporan atau melakukan pembayaran) sebelum mereka berhasil melakukan proses autentikasi terlebih dahulu.
+
+<h2 align="center">Class Diagram</h2>
+<p align="center">
+<img src="image/Class_Diagram_Sushi_Mood.svg" width="700" height="700" align="center">
+</p>
+
+## Pengertian
+
+| Jenis Relasi | Simbol UML |
+|--------------|------------|
+| **Asosiasi** | `<-----` (panah garis putus-putus biasa) |
+| **Komposisi** | `<-----⬥` (panah garis biasa belah ketupat ) |
+
+---
+
+## Relasi Asosiasi
+
+Berikut adalah relasi **asosiasi** yang terdapat dalam class diagram:
+
+| No | Class  | Class | Penjelasan | Tipe Relasi |
+|----|---------|---------|-------------|---------|
+| 1 | **Seller** | **Inventory** | Terjadi relasi asosiasi karena inventori hanya meminjam 1 methode dari kelas seller jika seller dihapus maka inventori masih dapat berdiri sendiri| Asosiasi |
+| 2 | **Seller** | **Stock** | Terjadi relasi asosiasi karena stock hanya meminjam 1 methode dari kelas seller jika seller dihapus maka stock masih dapat berdiri sendiri | Asosiasi |
+| 3 | **Seller** | **Transaction** | Terjadi relasi asosiasi karena transaction hanya meminjam 1 methode dari kelas seller jika seller dihapus maka transaction masih dapat berdiri sendiri | Asosiasi |
+| 4 | **Product** | **Stock** | Relasi antara product dan stock adalah komposisi karena jika class product dihapus maka stock tidak dapat berdiri sendiri | Komposisi |
+| 5 | **Product** | **Transaction** | Terjadi relasi asosiasi karena transaction hanya meminjam 1 methode dari kelas product jika product dihapus maka transaction masih dapat berdiri sendiri | Asosiasi |
+| 6 | **Cart** | **Product** | Relasi antara product dan chart adalah komposisi karena jika class product dihapus maka class chart tidak dapat berdiri sendiri | Komposisi |
+| 7 | **Transaction** | **Chart** | Relasi antara transaction dan chart adalah komposisi karena jika class chart dihapus maka transaction tidak dapat berdiri sendiri | Komposisi |
+| 8 | **Transaction** | **Payment_type** | Relasi antara transaction dan payment_type adalah komposisi karena jika class transaction dihapus maka payment_type tidak dapat berdiri sendiri | Komposisi |
+
