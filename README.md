@@ -79,4 +79,4 @@ B. Sisi Pelanggan
     <ol>Melakukan Pembelian: Memproses pesanan dari keranjang belanja.</ol>
     <ol>Melakukan Pembayaran: Menyelesaikan transaksi secara finansial.</ol>
 <h4>3. Relasi include dan Autentikasi</h4>
-Di tengah diagram terdapat Use Case Autentikasi yang dihubungkan dengan garis putus-putus berlabel include dari semua Use Case lainnya. Hal ini menunjukkan bahwa Autentikasi (login/verifikasi identitas) adalah syarat wajib. Artinya, baik Penjual maupun Pelanggan tidak dapat menjalankan fitur apa pun (seperti melihat laporan atau melakukan pembayaran) sebelum mereka berhasil melakukan proses autentikasi terlebih dahulu.
+Di tengah diagram terdapat Use Case Autentikasi yang dihubungkan dengan garis putus-putus berlabel include dari semua Use Case lainnya. Hal ini menunjukkan bahwa Autentikasi (login/verifikasi identitas) adalah syarat wajib. Artinya, hanya Penjual yang dapat melakukan autentikasi sedangkan Pelanggan tidak dapat menjalankan fitur apa pun (seperti melihat laporan atau melakukan pembayaran) sebelum mereka berhasil melakukan proses autentikasi terlebih dahulu.
