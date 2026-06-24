@@ -330,13 +330,13 @@ Berikut adalah relasi **asosiasi** yang terdapat dalam class diagram:
 <h3>Pembeli</h3>
 <h4> Sequence Diagram Memasukkan Menu ke Keranjang</h4>
 <p align="center">
-<img src="image/SequenceDiagram/Pembeli/SequenceDiagram-menuKeranjang.svg" width="350" height="350" align="center">
+<img src="image/SequenceDiagram/pembeli/SequenceDiagram-menuKeranjang.svg" width="350" height="350" align="center">
 </p>
 <h4> Sequence Diagram Melakukan Pembelian</h4>
 <p align="center">
-<img src="image/SequenceDiagram/Pembeli/SequenceDiagram-melakukanPembelian.svg" width="350" height="350" align="center">
+<img src="image/SequenceDiagram/pembeli/SequenceDiagram-melakukanPembelian.svg" width="350" height="350" align="center">
 </p>
 <h4> Sequence Diagram Melihat Menu</h4>
 <p align="center">
-<img src="image/SequenceDiagram/Pembeli/SequenceDiagram-melihatMenu.svg" width="350" height="350" align="center">
+<img src="image/SequenceDiagram/pembeli/SequenceDiagram-melihatMenu.svg" width="350" height="350" align="center">
 </p>
