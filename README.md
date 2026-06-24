@@ -302,6 +302,8 @@ Berikut adalah relasi **asosiasi** yang terdapat dalam class diagram:
 
 
 <h2 align="center">Sequence Diagram</h2>
+<h3>Penjual</h3>
+<h4> Sequence Diagram Pengelolaan Stock Penjualan</h4>
 <p align="center">
-<img src="image/SequenceDiagram/Penjual/Pengelolaan_stock_penjualan.png" width="700" height="700" align="center">
+<img src="image/SequenceDiagram/Penjual/Pengelolaan_stock_penjualan.png" width="350" height="350" align="center">
 </p>
