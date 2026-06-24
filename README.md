@@ -307,3 +307,23 @@ Berikut adalah relasi **asosiasi** yang terdapat dalam class diagram:
 <p align="center">
 <img src="image/SequenceDiagram/Penjual/Pengelolaan_stock_penjualan.png" width="350" height="350" align="center">
 </p>
+<h4> Sequence Diagram Pengelolaan Laporan Keuangan</h4>
+<p align="center">
+<img src="image/SequenceDiagram/Penjual/SequenceDiagram-LaporanKeuangan.svg" width="350" height="350" align="center">
+</p>
+<h4> Sequence Diagram Melihat Data Penjualan Terpopuler</h4>
+<p align="center">
+<img src="image/SequenceDiagram/Penjual/SequenceDiagram-penjualanPopuler.svg" width="350" height="350" align="center">
+</p>
+<h4> Sequence Diagram Pengelolaan Pesanan Pelanggan</h4>
+<p align="center">
+<img src="image/SequenceDiagram/Penjual/SequenceDiagram-mengelolaPesanan.svg" width="350" height="350" align="center">
+</p>
+<h4> Sequence Diagram Autentikasi Akun Seller</h4>
+<p align="center">
+<img src="image/SequenceDiagram/Penjual/SequenceDiagram-autentikasi.svg" width="350" height="350" align="center">
+</p>
+<h4> Sequence Diagram Pengelolaan Profile Seller</h4>
+<p align="center">
+<img src="image/SequenceDiagram/Penjual/SequenceDiagram-mengelolaProfile.svg" width="350" height="350" align="center">
+</p>
