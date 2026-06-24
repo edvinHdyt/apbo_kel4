@@ -300,3 +300,7 @@ Berikut adalah relasi **asosiasi** yang terdapat dalam class diagram:
 | 7 | **Transaction** | **Chart** | Relasi antara transaction dan chart adalah komposisi karena jika class chart dihapus maka transaction tidak dapat berdiri sendiri | Komposisi |
 | 8 | **Transaction** | **Payment_type** | Relasi antara transaction dan payment_type adalah komposisi karena jika class transaction dihapus maka payment_type tidak dapat berdiri sendiri | Komposisi |
 
+<h2 align="center">ACTIVITY DIAGRAM</h2>
+<p align="center">
+<img src="image/activity-diagram.svg" width="700" height="700" align="center">
+</p>
